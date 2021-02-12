@@ -18,6 +18,3 @@ https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)
   + continuous features in train.csv => remain the same in X_train (age, capital losses...).
   + X_train, X_test : each row contains one 510-dim feature represents a sample.
   + Y_train: label = 0 means  “<= 50K” 、 label = 1 means  “ >50K ”
-
-## 作業範例
-https://colab.research.google.com/drive/1f1FyPmA0iLYrA4MYD2pvdimuUxjOcA8n?usp=sharing
